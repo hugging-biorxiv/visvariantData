@@ -1,0 +1,6 @@
+FID,IID,filename,phenotype
+H00001,H00001,sorted_final_merged_chr18.bam,PacBio
+H00002,H00002,IonXpress_020_rawlib_chr18.b37.bam,Ion Proton
+H00006,H00006,BGISEQ_PE50_NA12878_chr18.sorted.bam,CG
+H00005,H00005,BGISEQ_PE100_NA12878_chr18.sorted.bam,CG
+H00011,H00011,RMNISTHS_30xdownsample_chr18.bam,Illumina
